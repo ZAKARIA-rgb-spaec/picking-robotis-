@@ -86,6 +86,7 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 - `yolo3.txt` : Fichier texte avec les classes pour YOLO.
 - `yolo3.weights` : Poids du modèle YOLO pré-entraîné.
 - `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
+- `Fichier `requirements.txt`: Ce fichier liste toutes les bibliothèques Python dont votre projet a besoin, avec des versions spécifiques pour éviter les conflits.
 
 ## 🔍 Classification des Boîtiers
 
@@ -156,6 +157,13 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 - **Lamyae Najih**
 - **Superviseur : Dr. A. Rahmani**
 
+## Installation des dépendances
+
+Pour installer toutes les dépendances nécessaires à ce projet, veuillez utiliser la commande suivante :
+
+```sh
+pip install -r requirements.txt
+```
 ## Références
 
 Pour plus de détails, veuillez consulter le rapport complet : [Rapport_ECL_Zakaria_Midine.pdf](https://online.publuu.com/571615/1283441)
