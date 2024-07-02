@@ -19,7 +19,7 @@ Ce projet de recherche se concentre sur la conception et la réalisation d’un 
 
 ## Architecture du Système
 
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:30%;"/>
+<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:15%;"/>
 
 Le système de picking robotisé comprend les composants suivants :
 
@@ -53,7 +53,7 @@ Un modèle de machine learning a été entraîné pour différencier les boîtie
 Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale de Lille. Les tests comprendront :
 
 - **Détection et identification d’objets** : Validation de la précision des algorithmes de vision par ordinateur.
-- 
+
 <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:20%;"/>
 
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
