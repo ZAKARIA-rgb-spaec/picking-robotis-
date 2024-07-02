@@ -80,12 +80,19 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 - `yolo.cfg` : Fichier de configuration pour le modèle YOLO.
 - `yolo3.txt` : Fichier texte avec les classes pour YOLO.
 - `yolo3.weights` : Poids du modèle YOLO pré-entraîné.
+- `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
 
 ## Classification des Boîtiers
 
 <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:20%;"/>
 
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
+## Vérification de la Connectivité
+Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
+```bash
+ping adresse_robot``` 
+
+Remplacez adresse_robot par l'adresse IP du robot.
 
 ## Tests et Validation
 
