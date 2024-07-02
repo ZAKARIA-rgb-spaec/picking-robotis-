@@ -102,6 +102,29 @@ Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
 ```bash
 ping adresse_robot
 ```
+# 🤖 Apprentissage par Renforcement pour le Robot UR5e
+
+Ce projet utilise l'apprentissage par renforcement pour améliorer la précision et l'efficacité des actions du robot UR5e. Nous utilisons le modèle PPO (Proximal Policy Optimization) de la bibliothèque Stable-Baselines3.
+
+## 🚀 Installation
+
+Assurez-vous d'avoir installé les dépendances nécessaires :
+
+```bash
+pip install stable-baselines3 gym
+```
+## 🌟 Définir l'Environnement
+Nous avons défini un environnement personnalisé en utilisant la bibliothèque gym pour encapsuler la logique de l'interaction avec le robot et la caméra. L'environnement est défini dans le fichier 'robot_env.py'.
+
+## 📁 Structure du Projet
+.
+├── README.md          # Documentation
+├── main.py            # Script principal
+├── rtde_control.py    # Config Robot 
+├── robot_env.py       # Définition de l'environnement d'apprentissage par renforcement
+└── models
+    └── ppo_robot      # Modèle PPO sauvegardé
+
 
 ## ✅ Tests et Validation
 
