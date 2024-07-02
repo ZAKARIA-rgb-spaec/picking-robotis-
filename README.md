@@ -18,9 +18,9 @@ Ce projet de recherche se concentre sur la conception et la réalisation d’un 
 - **Algorithmes de planification de trajectoire** : Calcul des trajectoires optimales pour les mouvements du robot.
 
 ## Architecture du Système
-
+<p align="center">
 <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:20%;"/>
-
+</p>
 Le système de picking robotisé comprend les composants suivants :
 
 1. **Réseau de caméras** pour la détection et l’identification des objets.
@@ -28,9 +28,9 @@ Le système de picking robotisé comprend les composants suivants :
 3. **Système de communication** entre les caméras et le robot pour coordonner les opérations de picking.
 
 ## SYSTEM MODEL
-
+<p align="center">
 <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="SYSTEM MODEL" style="width:20%;"/>
-
+</p>
 ## Installation et Configuration
 
 ### Configuration matérielle
@@ -83,14 +83,15 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 - `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
 
 ## Classification des Boîtiers
-
+<p align="center">
 <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:20%;"/>
-
+</p>
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
 ## Vérification de la Connectivité
 Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
 ```bash
-ping adresse_robot``` 
+ping adresse_robot
+``` 
 
 Remplacez adresse_robot par l'adresse IP du robot.
 
@@ -99,9 +100,11 @@ Remplacez adresse_robot par l'adresse IP du robot.
 Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale de Lille. Les tests comprendront :
 
 - **Détection et identification d’objets** : Validation de la précision des algorithmes de vision par ordinateur.
+ <p align="center">
+     
 
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:15%;"/>
-
+ </p>
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
 - **Performance globale** : Évaluation de l’efficacité et de la fiabilité du système dans un environnement industriel réel.
 
