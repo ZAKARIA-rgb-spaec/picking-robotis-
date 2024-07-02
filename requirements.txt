@@ -1,0 +1,23 @@
+# Bibliothèques pour le machine learning et l'apprentissage par renforcement
+numpy==1.23.5
+scipy==1.10.1
+tensorflow==2.12.0  # ou torch==2.0.1 si vous utilisez PyTorch
+gym==0.26.2
+stable-baselines3==1.8.0  # Pour PPO et autres algorithmes d'apprentissage par renforcement
+
+# Bibliothèques pour la communication avec les robots
+rtde==1.5.2  # Remplacez par la bibliothèque spécifique à votre robot si nécessaire
+
+# Bibliothèques pour l'analyse et le traitement des données
+pandas==1.5.3
+matplotlib==3.7.2
+
+# Bibliothèques supplémentaires utiles pour le développement
+opencv-python==4.8.0.74
+tqdm==4.65.0
+
+# Pour la gestion de la configuration et des fichiers YAML (si utilisé)
+pyyaml==6.0
+
+# Pour la documentation et les notebooks
+jupyter==1.0.0
