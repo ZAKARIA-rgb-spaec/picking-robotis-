@@ -59,8 +59,8 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
 - **Performance globale** : Évaluation de l’efficacité et de la fiabilité du système dans un environnement industriel réel.
 
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/a6c44958-80b1-4c35-ab56-ffdcf9d3b1a7" alt="Performance globale" style="width:30%;"/>
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/052675e3-8b9e-4e15-9067-254a7e91bcdf" alt="Validation du système" style="width:30%;"/>
+<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/a6c44958-80b1-4c35-ab56-ffdcf9d3b1a7" alt="Performance globale" style="width:15%;"/>
+<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/052675e3-8b9e-4e15-9067-254a7e91bcdf" alt="Validation du système" style="width:15%;"/>
 
 ## Résultats Attendus
 
