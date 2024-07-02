@@ -117,13 +117,11 @@ pip install stable-baselines3 gym
 Nous avons défini un environnement personnalisé en utilisant la bibliothèque gym pour encapsuler la logique de l'interaction avec le robot et la caméra. L'environnement est défini dans le fichier 'robot_env.py'.
 
 ## 📁 Structure du Projet
-.
-├── README.md          # Documentation
-├── main.py            # Script principal
-├── rtde_control.py    # Config Robot 
-├── robot_env.py       # Définition de l'environnement d'apprentissage par renforcement
-└── models
-    └── ppo_robot      # Modèle PPO sauvegardé
+ -`main.py` : Script principal pour exécuter le projet.
+ - `rtde_control.py` : Configuration et contrôle du robot.
+ - `robot_env.py` : Définition de l'environnement d'apprentissage par renforcement.
+ - `models` : Répertoire pour stocker les modèles de machine learning.
+ - `ppo_robot` : Modèle PPO sauvegardé.
 
 
 ## ✅ Tests et Validation
