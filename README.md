@@ -93,7 +93,7 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 
 - **Détection et identification d’objets** : Validation de la précision des algorithmes de vision par ordinateur.
 
-    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:100%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:15%;"/>
 
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
 - **Performance globale** : Évaluation de l’efficacité et de la fiabilité du système dans un environnement industriel réel.
