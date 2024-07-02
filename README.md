@@ -2,47 +2,47 @@
 
 ## Introduction
 
-Ce projet de recherche se concentre sur la conception et la réalisation d’un système de picking robotisé utilisant des techniques avancées d'intelligence artificielle et de deep learning. L’objectif principal est de développer une solution innovante capable d'identifier et de sélectionner des objets de manière autonome dans un environnement industriel.
+Bienvenue dans notre projet de **Système de Picking Robotisé** ! Ce projet se concentre sur la création d'un système innovant utilisant l'intelligence artificielle et le deep learning pour identifier et sélectionner des objets de manière autonome dans un environnement industriel.
 
-## Objectifs du Projet
+## 🎯 Objectifs du Projet
 
 - **Développer un système de vision artificielle** : Utiliser des caméras et des algorithmes de deep learning pour détecter et identifier les objets.
-- **Intégrer un robot de picking** : Développer un robot capable de manipuler une variété d’objets avec précision et efficacité, en utilisant des techniques de deep reinforcement learning pour optimiser les stratégies de picking.
-- **Tester et valider le système** : Utiliser la Smart Factory de l’Ecole Centrale de Lille comme plateforme de validation pour évaluer les performances et l’efficacité du système développé.
+- **Intégrer un robot de picking** : Créer un robot capable de manipuler divers objets avec précision, en utilisant le deep reinforcement learning pour optimiser les stratégies de picking.
+- **Tester et valider le système** : Évaluer les performances et l’efficacité du système dans la Smart Factory de l’Ecole Centrale de Lille.
 
-## Technologies Utilisées
+## 🛠️ Technologies Utilisées
 
-- **Vision par ordinateur** : Utilisation de caméras et d'algorithmes de traitement d'image pour détecter et identifier les objets.
-- **Capteurs et actionneurs** : Équipements du robot de picking pour percevoir son environnement et effectuer des mouvements précis.
-- **Deep Learning et Deep Reinforcement Learning** : Amélioration de la précision et de l’efficacité des stratégies de picking.
+- **Vision par ordinateur** : Caméras et algorithmes de traitement d'image pour la détection d'objets.
+- **Capteurs et actionneurs** : Équipements permettant au robot de percevoir son environnement et d'effectuer des mouvements précis.
+- **Deep Learning et Deep Reinforcement Learning** : Techniques avancées pour améliorer la précision et l'efficacité des stratégies de picking.
 - **Algorithmes de planification de trajectoire** : Calcul des trajectoires optimales pour les mouvements du robot.
 
-## Architecture du Système
+## 🏗️ Architecture du Système
 
 <p align="center">
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:40%;"/>
 </p>
 
-Le système de picking robotisé comprend les composants suivants :
+### Composants Principaux
 
 1. **Réseau de caméras** pour la détection et l’identification des objets.
 2. **Robot de picking** équipé de capteurs et d’actionneurs pour manipuler les objets.
 3. **Système de communication** entre les caméras et le robot pour coordonner les opérations de picking.
 
-## System Model
+## 🧩 System Model
 
 <p align="center">
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="System Model" style="width:40%;"/>
 </p>
 
-## Installation et Configuration
+## ⚙️ Installation et Configuration
 
-### Configuration matérielle
+### Configuration Matérielle
 
 1. Installer les caméras et les connecter au réseau.
 2. Configurer le robot de picking avec les capteurs et les actionneurs nécessaires.
 
-### Configuration logicielle
+### Configuration Logicielle
 
 1. Installer les bibliothèques de deep learning :
 
@@ -81,13 +81,13 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 
 ### Fichiers du Projet
 
-- `main.py` : Contient le code global, y compris la détection, la configuration réseau et les scripts de communication.
+- `main.py` : Code global incluant la détection, la configuration réseau et les scripts de communication.
 - `yolo.cfg` : Fichier de configuration pour le modèle YOLO.
 - `yolo3.txt` : Fichier texte avec les classes pour YOLO.
 - `yolo3.weights` : Poids du modèle YOLO pré-entraîné.
 - `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
 
-## Classification des Boîtiers
+## 🔍 Classification des Boîtiers
 
 <p align="center">
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:40%;"/>
@@ -95,7 +95,7 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
 
-## Vérification de la Connectivité
+## 🌐 Vérification de la Connectivité
 
 Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
 
