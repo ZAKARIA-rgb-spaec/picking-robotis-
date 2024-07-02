@@ -20,7 +20,7 @@ Bienvenue dans notre projet de **Système de Picking Robotisé** ! Ce projet se 
 ## 🏗️ Architecture du Système
 
 <p align="center">
-    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:40%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:20%;"/>
 </p>
 
 ### Composants Principaux
@@ -32,7 +32,7 @@ Bienvenue dans notre projet de **Système de Picking Robotisé** ! Ce projet se 
 ## 🧩 System Model
 
 <p align="center">
-    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="System Model" style="width:40%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="System Model" style="width:20%;"/>
 </p>
 
 ## ⚙️ Installation et Configuration
@@ -90,7 +90,7 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 ## 🔍 Classification des Boîtiers
 
 <p align="center">
-    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:40%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:20%;"/>
 </p>
 
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
@@ -103,7 +103,7 @@ Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
 ping adresse_robot
 ```
 
-## Tests et Validation
+## ✅ Tests et Validation
 
 Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale de Lille. Les tests comprendront :
 
@@ -116,13 +116,14 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/a6c44958-80b1-4c35-ab56-ffdcf9d3b1a7" alt="Performance globale" style="width:15%;"/>
     <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/052675e3-8b9e-4e15-9067-254a7e91bcdf" alt="Validation du système" style="width:15%;"/>
 
-## Résultats Attendus
+## 🎯 Résultats Attendus
 
 - Amélioration significative de l’efficacité des processus de picking robotisé.
 - Réduction des erreurs d’identification et de sélection des objets.
 - Démonstration de la faisabilité et des avantages de l’application des techniques de deep learning dans le contexte industriel.
 
-## Auteurs
+## 👥 Auteurs
+
 
 - **Zakaria Midine**
 - **Zakaria Limi**
