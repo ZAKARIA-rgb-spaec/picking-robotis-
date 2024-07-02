@@ -44,7 +44,7 @@ Le système de picking robotisé comprend les composants suivants :
 
 ## Classification des Boîtiers
 
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:30%;"/>
+<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:20%;"/>
 
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
 
@@ -54,7 +54,7 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 
 - **Détection et identification d’objets** : Validation de la précision des algorithmes de vision par ordinateur.
 - 
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:100%;"/>
+<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:20%;"/>
 
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
 - **Performance globale** : Évaluation de l’efficacité et de la fiabilité du système dans un environnement industriel réel.
