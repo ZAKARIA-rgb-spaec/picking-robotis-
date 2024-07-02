@@ -100,11 +100,8 @@ Remplacez adresse_robot par l'adresse IP du robot.
 Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale de Lille. Les tests comprendront :
 
 - **Détection et identification d’objets** : Validation de la précision des algorithmes de vision par ordinateur.
- <p align="center">
-     
+ <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:15%;"/>
 
-    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/f8e8e932-b103-4271-8ad5-d664f3509811" alt="Détection et identification d’objets" style="width:15%;"/>
- </p>
 - **Stratégies de picking** : Optimisation des stratégies de picking à l'aide du deep reinforcement learning.
 - **Performance globale** : Évaluation de l’efficacité et de la fiabilité du système dans un environnement industriel réel.
 
