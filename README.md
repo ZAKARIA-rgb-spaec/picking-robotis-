@@ -71,6 +71,8 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 ## Auteurs
 
 - **Zakaria Midine**
+- **Zakaria Limi**
+- **Lamyae Najih**
 - **Superviseur : Dr. A. Rahmani**
 
 ## Références
