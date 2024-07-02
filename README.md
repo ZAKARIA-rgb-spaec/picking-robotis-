@@ -1,4 +1,4 @@
-# Système de Picking Robotisé
+# 🚀 Système de Picking Robotisé
 
 ## Introduction
 
@@ -18,19 +18,23 @@ Ce projet de recherche se concentre sur la conception et la réalisation d’un 
 - **Algorithmes de planification de trajectoire** : Calcul des trajectoires optimales pour les mouvements du robot.
 
 ## Architecture du Système
+
 <p align="center">
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:20%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/498f4342-6468-420d-add2-b68cf722bdf4" alt="Architecture du Système" style="width:40%;"/>
 </p>
+
 Le système de picking robotisé comprend les composants suivants :
 
 1. **Réseau de caméras** pour la détection et l’identification des objets.
 2. **Robot de picking** équipé de capteurs et d’actionneurs pour manipuler les objets.
 3. **Système de communication** entre les caméras et le robot pour coordonner les opérations de picking.
 
-## SYSTEM MODEL
+## System Model
+
 <p align="center">
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="SYSTEM MODEL" style="width:20%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/0e404db3-ac1a-412a-ae2b-d6c89557e3dc" alt="System Model" style="width:40%;"/>
 </p>
+
 ## Installation et Configuration
 
 ### Configuration matérielle
@@ -68,6 +72,7 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
     - Créez une règle de trafic entrant pour autoriser les ports utilisés par le robot et les caméras.
 
 2. **Sur Linux (UFW)** :
+
     ```bash
     sudo ufw allow 12345/tcp  # Remplacez 12345 par le port spécifique utilisé
     sudo ufw allow 12345/udp  # Remplacez 12345 par le port spécifique utilisé
@@ -83,17 +88,20 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 - `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
 
 ## Classification des Boîtiers
+
 <p align="center">
-<img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:20%;"/>
+    <img src="https://github.com/ZAKARIA-rgb-spaec/picking-robotis-/assets/126424638/8dfb6e06-bf74-4db9-b103-788bc7e29c82" alt="Classification des Boîtiers" style="width:40%;"/>
 </p>
+
 Un modèle de machine learning a été entraîné pour différencier les boîtiers avec boutons des boîtiers sans boutons, en utilisant des caractéristiques visuelles telles que la couleur et la forme.
+
 ## Vérification de la Connectivité
+
 Pour vérifier la connectivité avec le robot, utilisez la commande suivante :
+
 ```bash
 ping adresse_robot
-``` 
-
-Remplacez adresse_robot par l'adresse IP du robot.
+```
 
 ## Tests et Validation
 
