@@ -180,4 +180,6 @@ pip install -r requirements.txt
 ```
 ## Références
 
-Pour plus de détails, veuillez consulter le rapport complet : [Rapport_ECL_Zakaria_Midine.pdf](https://online.publuu.com/571615/1283441)
+Pour plus de détails, veuillez consulter les rapport complet  : [Rapport_ECL_Zakaria_Midine.pdf](https://online.publuu.com/571615/1283441)
+
+
