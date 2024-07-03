@@ -6,7 +6,7 @@ Bienvenue dans notre projet de **Système de Picking Robotisé** ! Ce projet se 
 
 ## 🎯 Objectifs du Projet
 
-- **Développer un système de vision artificielle** : Utiliser des caméras et des algorithmes de deep learning pour détecter et identifier les objets.
+- **Développer un système de vision artificielle** : Utiliser des caméras et des algorithmes de deep learning pour détecter et identifier les objets  (les boîtiers avec boutons , des boîtiers sans boutons)
 - **Intégrer un robot de picking** : Créer un robot capable de manipuler divers objets avec précision, en utilisant le deep reinforcement learning pour optimiser les stratégies de picking.
 - **Tester et valider le système** : Évaluer les performances et l’efficacité du système dans la Smart Factory de l’Ecole Centrale de Lille.
 
@@ -158,6 +158,8 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 Développement d'algorithmes de détection : Utiliser YOLO et d'autres modèles de vision par ordinateur pour détecter et identifier les objets.
 Traitement d'images : Implémenter des techniques pour améliorer la précision de la détection d'objets.
 Intégration des caméras : Configurer le réseau de caméras et assurer leur communication avec le robot.
+
+
 - **Zakaria Limi**
   
 Mission : Contrôle du Robot et Planification de Trajectoire
