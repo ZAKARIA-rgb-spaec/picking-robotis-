@@ -84,7 +84,7 @@ Pour établir une connexion entre le robot et le PC, assurez-vous que les ports 
 - `main.py` : Code global incluant la détection, la configuration réseau et les scripts de communication.
 - `yolo.cfg` : Fichier de configuration pour le modèle YOLO.
 - `yolo3.txt` : Fichier texte avec les classes pour YOLO.
-- `yolo3.weights` : Poids du modèle YOLO pré-entraîné.
+- `yolo3.weights sous format zippé ` : Poids du modèle YOLO pré-entraîné sur  les boîtiers avec boutons , des boîtiers sans boutons
 - `rtd_control.py` : Contient la configuration du robot et les fonctions de contrôle.
 - `robot_env.py`   : Apprentissage par Renforcement pour le Robot UR5e
 - `Fichier requirements.txt`: Ce fichier liste toutes les bibliothèques Python dont votre projet a besoin, avec des versions spécifiques pour éviter les conflits.
