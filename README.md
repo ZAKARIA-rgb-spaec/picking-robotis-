@@ -153,16 +153,19 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 
 
 - **Zakaria Midine**  **Lamyae Najih** :
-- Mission : Vision par Ordinateur et Détection d'Objets + Deep Learning et Apprentissage par Renforcement
+  
+  Mission : Vision par Ordinateur et Détection d'Objets + Deep Learning et Apprentissage par Renforcement
 Développement d'algorithmes de détection : Utiliser YOLO et d'autres modèles de vision par ordinateur pour détecter et identifier les objets.
 Traitement d'images : Implémenter des techniques pour améliorer la précision de la détection d'objets.
 Intégration des caméras : Configurer le réseau de caméras et assurer leur communication avec le robot.
 - **Zakaria Limi**
+  
 Mission : Contrôle du Robot et Planification de Trajectoire
 
 Développement des algorithmes de planification de trajectoire : Calculer les trajectoires optimales pour les mouvements du robot.
 Configuration du robot : Configurer le robot UR5e avec les capteurs et les actionneurs nécessaires.
 Implémentation des scripts de contrôle : Développer les scripts pour la communication et le contrôle du robot.
+
 - **Superviseur : Dr. A. Rahmani**
 
 ## Installation des dépendances
