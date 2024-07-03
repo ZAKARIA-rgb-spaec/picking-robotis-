@@ -153,9 +153,10 @@ Le système sera testé et validé dans la Smart Factory de l’Ecole Centrale d
 ## 👥 Auteurs
 
 
-- **Zakaria Midine**  **Lamyae Najih** :
+- **Zakaria Midine** + **Lamyae Najih** :
   
   Mission : Vision par Ordinateur et Détection d'Objets + Deep Learning et Apprentissage par Renforcement
+  
 Développement d'algorithmes de détection : Utiliser YOLO et d'autres modèles de vision par ordinateur pour détecter et identifier les objets.
 Traitement d'images : Implémenter des techniques pour améliorer la précision de la détection d'objets.
 Intégration des caméras : Configurer le réseau de caméras et assurer leur communication avec le robot.
