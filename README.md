@@ -183,6 +183,5 @@ pip install -r requirements.txt
 
 Pour plus de détails, veuillez consulter les rapport complet  : [Rapport_ECL_Zakaria_Midine.pdf](https://online.publuu.com/571615/1283441)
 
-[rapport projet de recherche_Lamyae Najih.pdf](https://github.com/user-attachments/files/16098970/rapport.projet.de.recherche_Lamyae.Najih.pdf)
 
 
